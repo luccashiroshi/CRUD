@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Joana Dark",
+      "email": "jujuba@gmail.com"
+    },
+    {
+      "name": "Julia Freitas",
+      "email": "JuliaF@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Arthur Silva",
+      "email": "athuroliveira@gmail.com",
+      "id": 5
+    }
+  ]
+}
